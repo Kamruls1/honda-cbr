@@ -1,0 +1,9 @@
+.bike{
+    filter:grayscale(100%);
+}
+.girl{
+    clip-path: circle();
+}
+.icon{
+    color: lightgray;
+}
